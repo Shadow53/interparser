@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	e "github.com/Shadow53/interparser/errors"
+	e "git.shadow53.com/Shadow53/interparser/errors"
 )
 
 // Slice attempts to parse the given interface as a slice of interfaces that

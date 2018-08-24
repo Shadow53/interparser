@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	e "github.com/Shadow53/interparser/errors"
+	e "git.shadow53.com/Shadow53/interparser/errors"
 )
 
 // Float64 attempts to parse the given interface as float64. It is compatible
