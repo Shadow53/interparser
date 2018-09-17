@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	e "git.shadow53.com/Shadow53/interparser/errors"
+	e "gitlab.com/Shadow53/interparser/errors"
 )
 
 // String attempts to parse the given interface as a string and returns an

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	e "git.shadow53.com/Shadow53/interparser/errors"
+	e "gitlab.com/Shadow53/interparser/errors"
 )
 
 // Bool attempts to parse the given interface as a boolean and returns an error
